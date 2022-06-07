@@ -73,7 +73,7 @@
 #home::before{
     content: "";
     position: absolute;
-    background: url(../Images/e.jpg) no-repeat center center/cover;
+    background: url(e.jpg) no-repeat center center/cover;
    
     height:94%;
     width: 105%;
@@ -131,7 +131,7 @@
 #client-section::before{
     content: "";
     position: absolute;
-    background: url(../Images/client.jpg) no-repeat center center/cover;
+    background: url(client.jpg) no-repeat center center/cover;
     height: 268px;
     width: 105%;
     z-index: -1;
@@ -164,7 +164,7 @@
 #contact-section::before{
     content: "";
     position: absolute;
-    background: url(../Images/contact.png) no-repeat center center/cover;
+    background: url(contact.png) no-repeat center center/cover;
     height: 420px;
     width: 105%;
     z-index: -1;

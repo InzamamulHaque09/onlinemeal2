@@ -104,7 +104,7 @@
 }
 /* Services Section */
 #services{
-    margin: 2px;
+    margin: 20px;
     display: flex;
 }
 #services .box{
